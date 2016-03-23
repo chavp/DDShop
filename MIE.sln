@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Business Models", "3 - Business Models", "{0B3BB4D2-4713-4F86-9EED-4D8E20EC7C6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{013E76AF-892D-40CD-817E-1EC7FB2F3629}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentations", "1 - Presentations", "{C171FF18-6AB8-4F65-BCEA-F946F0ACE4F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Services", "2 - Services", "{CD6CFE49-259B-49F1-9844-3DF96AAFB585}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{A4E2147C-74BB-4BF4-9DE0-32FD6B609A44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Window", "Window", "{F595B47B-574F-47CB-A0F7-46FDD10A0D29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Data Sources", "4 - Data Sources", "{244EA410-ECAE-4852-BD44-AD1025B49D02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web API", "Web API", "{FBF161E9-3F34-4099-8B98-7F1A813379F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mobile", "Mobile", "{0834D5E0-567F-494F-8C0A-00456E034F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A4E2147C-74BB-4BF4-9DE0-32FD6B609A44} = {C171FF18-6AB8-4F65-BCEA-F946F0ACE4F3}
+		{F595B47B-574F-47CB-A0F7-46FDD10A0D29} = {C171FF18-6AB8-4F65-BCEA-F946F0ACE4F3}
+		{FBF161E9-3F34-4099-8B98-7F1A813379F3} = {C171FF18-6AB8-4F65-BCEA-F946F0ACE4F3}
+		{0834D5E0-567F-494F-8C0A-00456E034F8F} = {C171FF18-6AB8-4F65-BCEA-F946F0ACE4F3}
+	EndGlobalSection
+EndGlobal
